@@ -1,0 +1,32 @@
+b = 8 
+
+#OverWorld to Nether
+
+print('\"OverWorld to Nether\"')
+print(' ')
+
+a = float(input('Enter (x) Co-ordinates:'))
+
+c = float(input('Enter (z) Co-ordinates:'))
+print(' ')
+
+print('Your (x) Co-ordinate:',a/b)
+
+print('Your (z) Co-ordinate:',c/b)
+print(' ')
+
+
+#Nether to OverWorld
+
+print('\"Nether to OverWorld\"')
+print(' ')
+
+d = float(input('Enter (x) Co-ordinates:'))
+
+
+f = float(input('Enter (z) Co-ordinates:'))
+print(' ')
+
+print('Your (x) Co-ordinate:',d*b)
+
+print('Your (z) Co-ordinate:',f*b)
