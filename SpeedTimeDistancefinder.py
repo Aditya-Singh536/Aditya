@@ -1,3 +1,5 @@
+print('If don\'t know the number give 0.')
+
 def STDfinder():
     a = int(input('Enter the distance in km:'))
     b = int(input('Enter the time in h:'))
