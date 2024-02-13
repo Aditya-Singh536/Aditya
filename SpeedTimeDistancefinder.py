@@ -21,4 +21,6 @@ def STDfinder():
 
 print('If don\'t known value give it "0"\n')
 
-STDfinder()
+if __name__ = '__main__':
+    STDfinder()
+
